@@ -58,7 +58,7 @@ to use this file first find the movie plots of your favourite movie of try to de
 
 ## Contact
 
-Your Name - Hossein Dehghani - h.deh1383@ggmail.com
+ Hossein Dehghani - h.deh1383@ggmail.com
 
 Project Link: https://github.com/DEHOSS/IMBD-film-KNN-recommender
 
